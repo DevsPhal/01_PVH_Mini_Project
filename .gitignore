@@ -34,9 +34,10 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-.vscode/
 
 ### Mac OS ###
 .DS_Store
 
 **/src/main/**/resources/application.properties
+config.bat
+node_modules
